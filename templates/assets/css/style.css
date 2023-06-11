@@ -1,0 +1,26 @@
+  body {
+        background-color: #171531;
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        font-family: "Poppins", sans-serif;
+        font-size: 14px;
+      }
+      nav {
+        background-color: #181549 !important;
+      }
+      ul.nav li {
+        margin-left: 100px !important;
+      }
+      ul.nav li a {
+        color: rgba(255, 255, 255, 0.733) !important;
+      }
+      ul.nav li a img {
+        width: 45px;
+      }
+      .card {
+        background-color: #211f49;
+      }
+      .fs-13 {
+        font-size: 13px !important;
+      }
